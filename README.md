@@ -1,10 +1,9 @@
-Mad Libs Generator
+#Mad Libs Generator
 
-Description
-
+##Description
 This is a Python project that creates fun and interactive stories by taking user input and inserting it into a predefined story template.
 
-Features
+##Features
 
 •	Takes multiple inputs from the user
 
@@ -14,15 +13,15 @@ Features
 
 •	Beginner-friendly and easy to understand
 
-How to Run
+##How to Run
 
 python filename.py
 
-Technologies Used
+##Technologies Used
 
 •	Python
 
-What I Learned
+##What I Learned
 
 Through this project, I learned:
 
