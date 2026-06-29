@@ -14,7 +14,7 @@ This is a Python project that creates fun and interactive stories by taking user
 ## How to Run
 
 ```bash
-python filename.py
+python madlibs.py
 ```
 
 ## Technologies Used
