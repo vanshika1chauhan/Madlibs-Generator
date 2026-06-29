@@ -7,8 +7,11 @@ This is a Python project that creates fun and interactive stories by taking user
 Features
 
 •	Takes multiple inputs from the user
+
 •	Generates a unique and funny story
+
 •	Uses string formatting to create dynamic output
+
 •	Beginner-friendly and easy to understand
 
 How to Run
@@ -22,7 +25,11 @@ Technologies Used
 What I Learned
 
 Through this project, I learned:
+
 •	How to take user input using input()
+
 •	How to use variables and string formatting
+
 •	How to build interactive Python programs
+
 •	How to organize a simple Python project
